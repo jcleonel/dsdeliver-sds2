@@ -48,6 +48,14 @@ public class Order implements Serializable {
 		this.moment = moment;
 		this.status = status;
 	}
+	
+	public Double getTotal() {
+		double sum = 0.0;
+		for (Product p : products) {
+			sum += p.getPrice();
+		}
+		return sum;
+	}
 
 	public Long getId() {
 		return id;
