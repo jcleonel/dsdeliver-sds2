@@ -30,29 +30,27 @@ A aplicação é um aplicativo de delivery, onde o cliente entra na aplicação 
 
 ## Layout mobile
 
-![](D:\Projetos\sds2\dsdeliver\assets\imgs\AppMob1.jpeg) ![](D:\Projetos\sds2\dsdeliver\assets\imgs\AppMob2.jpeg) 
+![](https://github.com/jcleonel/dsdeliver-sds2/blob/master/assets/imgs/AppMob1.jpeg) ![](https://github.com/jcleonel/dsdeliver-sds2/blob/master/assets/imgs/AppMob2.jpeg) 
 
 
 
-![](D:\Projetos\sds2\dsdeliver\assets\imgs\AppMob3.jpeg) ![](D:\Projetos\sds2\dsdeliver\assets\imgs\AppMob4.jpeg) 
+![](https://github.com/jcleonel/dsdeliver-sds2/blob/master/assets/imgs/AppMob3.jpeg) ![](https://github.com/jcleonel/dsdeliver-sds2/blob/master/assets/imgs/AppMob4.jpeg) 
 
 
 
 ## Layout web
 
-![](D:\Projetos\sds2\dsdeliver\assets\imgs\AppWeb1.jpg) 
+![](https://github.com/jcleonel/dsdeliver-sds2/blob/master/assets/imgs/AppWeb1.jpg) 
 
+![](https://github.com/jcleonel/dsdeliver-sds2/blob/master/assets/imgs/AppWeb2.jpg) 
 
-
-![](D:\Projetos\sds2\dsdeliver\assets\imgs\AppWeb2.jpg) 
-
-![](D:\Projetos\sds2\dsdeliver\assets\imgs\AppWeb3.jpg) 
+![](https://github.com/jcleonel/dsdeliver-sds2/blob/master/assets/imgs/AppWeb3.jpg) 
 
 
 
 ## Modelo conceitual
 
-![](D:\Projetos\sds2\dsdeliver\assets\imgs\modelo-conceitual.png) 
+![](https://github.com/jcleonel/dsdeliver-sds2/blob/master/assets/imgs/modelo-conceitual.png) 
 
 
 
