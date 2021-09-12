@@ -16,9 +16,9 @@ A aplicação é um aplicativo de delivery, onde o cliente entra na aplicação 
 
 ## Download Apps Mobile
 
-[DS Deliver ANDROID APK](https://drive.google.com/uc?id=14qR8rCKJTsKOZ5VcohMlz6E4R_xcPMvF&export=download)
+[DS Deliver ANDROID APK](https://drive.google.com/file/d/14qR8rCKJTsKOZ5VcohMlz6E4R_xcPMvF)
 
-[DS Deliver IOS](https://drive.google.com/uc?id=18Ll5kwKkDPJ90TnBVDTzYN9iGYDcb5IN&export=download)
+[DS Deliver IOS](https://drive.google.com/file/d/18Ll5kwKkDPJ90TnBVDTzYN9iGYDcb5IN)
 
 
 
