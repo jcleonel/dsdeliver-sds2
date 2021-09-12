@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "front-mobile",
+    "name": "DS Deliver",
     "slug": "front-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#DA5C5C"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -17,12 +17,16 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.jeanleonel.dsdeliver",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
+      "package": "com.jeanleonel.dsdeliver",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#DA5C5C"
       }
     },
     "web": {

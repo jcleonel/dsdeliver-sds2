@@ -6,6 +6,8 @@ import Header from '../Header';
 import OrderCard from '../OrderCard';
 import { Order } from '../types';
 import { useNavigation, useIsFocused } from '@react-navigation/native';
+import SkeletonContent from "react-native-skeleton-content";
+import Loader from './Loader';
 
 function Orders() {
 
@@ -37,7 +39,7 @@ function Orders() {
             <Header />
             <ScrollView style={styles.container}>
                 {isLoading ? (
-                    <Text>Buscando pedidos...</Text>
+                    <Loader />       
                 ) : (
                     orders.map(order => (
                         <TouchableWithoutFeedback
